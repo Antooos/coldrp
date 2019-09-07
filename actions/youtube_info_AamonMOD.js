@@ -154,7 +154,7 @@ module.exports = {
 		<div>
 			<p>
 				<u>Mod Info:</u><br>
-				Created by <b>Aamon</b>!
+				Created by Aamon!
 			</p>
 		</div><br>
 	<div style="width: 95%; padding-top: 8px;">
